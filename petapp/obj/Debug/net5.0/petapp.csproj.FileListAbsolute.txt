@@ -1,0 +1,16 @@
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\petapp.csproj.AssemblyReference.cache
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\petapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\petapp.AssemblyInfoInputs.cache
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\petapp.AssemblyInfo.cs
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\petapp.csproj.CoreCompileInputs.cache
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\bin\Debug\net5.0\petapp.exe
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\bin\Debug\net5.0\petapp.deps.json
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\bin\Debug\net5.0\petapp.runtimeconfig.json
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\bin\Debug\net5.0\petapp.runtimeconfig.dev.json
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\bin\Debug\net5.0\petapp.dll
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\bin\Debug\net5.0\petapp.pdb
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\petapp.dll
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\refint\petapp.dll
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\petapp.pdb
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\petapp.genruntimeconfig.cache
+C:\Users\kristian.hjelset\GET ACADEMY KODETING\GET EMNE 3\petapp\petapp\obj\Debug\net5.0\ref\petapp.dll
